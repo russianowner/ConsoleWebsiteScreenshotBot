@@ -1,4 +1,5 @@
-﻿using ScreenshotBot.Services;
+#nullable disable
+using ScreenshotBot.Services;
 
 namespace ScreenshotBot
 {
