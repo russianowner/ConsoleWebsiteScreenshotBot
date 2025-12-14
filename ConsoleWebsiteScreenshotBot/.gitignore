@@ -1,0 +1,15 @@
+﻿.vs/
+*.user
+*.suo
+*.sln.docstates
+bin/
+obj/
+out/
+*.nupkg
+packages/
+*.snupkg
+*.log
+*.tmp
+*.temp
+*.cache
+.puppeteer/

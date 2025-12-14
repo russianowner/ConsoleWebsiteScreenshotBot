@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWebsiteScreenshotBot", "ConsoleWebsiteScreenshotBot\ConsoleWebsiteScreenshotBot.csproj", "{EA297841-3AC7-4BF9-B417-3D1AA0428659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA297841-3AC7-4BF9-B417-3D1AA0428659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA297841-3AC7-4BF9-B417-3D1AA0428659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA297841-3AC7-4BF9-B417-3D1AA0428659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA297841-3AC7-4BF9-B417-3D1AA0428659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A896019C-40B6-40BF-96D4-97CAE1CF1536}
+	EndGlobalSection
+EndGlobal
